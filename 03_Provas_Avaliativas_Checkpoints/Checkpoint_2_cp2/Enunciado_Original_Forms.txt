@@ -1,0 +1,7 @@
+FIAP • Engenharia da Computação
+Disciplina: Engenharia de Software
+Turma 3ECR • Ano 2024
+Checkpoint 02: Padrões de Projeto Orientados a Objetos (Design Patterns GoF)
+
+ENUNCIADO ORIGINAL:
+Implementar os padrões Factory Method, Observer e Strategy para construir um pipeline extensível de processamento de alertas e notificações industriais.

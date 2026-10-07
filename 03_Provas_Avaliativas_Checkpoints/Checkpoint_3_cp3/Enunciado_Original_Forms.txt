@@ -1,0 +1,7 @@
+FIAP • Engenharia da Computação
+Disciplina: Engenharia de Software
+Turma 3ECR • Ano 2024
+Checkpoint 03: Arquitetura de Microsserviços e Padrão API Gateway
+
+ENUNCIADO ORIGINAL:
+Decompor a aplicação monolítica em microsserviços autônomos orientados a domínio (DDD) com roteamento centralizado via API Gateway e mensageria RabbitMQ.

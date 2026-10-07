@@ -1,0 +1,7 @@
+FIAP • Engenharia da Computação
+Disciplina: Engenharia de Software
+Turma 3ECR • Ano 2024
+Checkpoint 05: Containerização Multi-Stage com Docker e Orquestração Local
+
+ENUNCIADO ORIGINAL:
+Criar Dockerfile multi-stage build para compilar e empacotar microsserviços Java/Node.js com imagem final Alpine mínima e sem vulnerabilidades de segurança (CVEs).

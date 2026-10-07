@@ -1,0 +1,7 @@
+FIAP • Engenharia da Computação
+Disciplina: Engenharia de Software
+Turma 3ECR • Ano 2024
+Checkpoint 01: Engenharia de Requisitos, Histórias de Usuário e Critérios de Aceite BDD
+
+ENUNCIADO ORIGINAL:
+Mapear os requisitos funcionais e não-funcionais do sistema de telemetria hospitalar Sanofi, construindo épicos, User Stories investigáveis e cenários BDD (Given-When-Then).

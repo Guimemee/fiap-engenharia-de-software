@@ -1,0 +1,7 @@
+FIAP • Engenharia da Computação
+Disciplina: Engenharia de Software
+Turma 3ECR • Ano 2024
+Checkpoint 04: Pirâmide de Testes Automatizados e Práticas de TDD
+
+ENUNCIADO ORIGINAL:
+Implementar a suíte completa de testes automatizados respeitando a Pirâmide de Testes de Mike Cohn: 70% testes unitários, 20% testes de integração e 10% testes End-to-End.

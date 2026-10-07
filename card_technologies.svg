@@ -1,0 +1,96 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 520" width="100%" height="100%">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#060c18" />
+      <stop offset="50%" stop-color="#0c172e" />
+      <stop offset="100%" stop-color="#060c18" />
+    </linearGradient>
+    <linearGradient id="pGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#3b82f6" />
+      <stop offset="100%" stop-color="#10b981" />
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#1e376e" stroke-width="0.8" stroke-opacity="0.4" />
+      <circle cx="40" cy="40" r="1.5" fill="#3b82f6" fill-opacity="0.25" />
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="520" fill="url(#bgGrad)" rx="16" />
+  <rect width="1200" height="520" fill="url(#grid)" rx="16" />
+  <rect width="1196" height="516" x="2" y="2" fill="none" stroke="#3b82f6" stroke-width="1.5" stroke-opacity="0.35" rx="14" />
+
+  <path d="M 40 40 L 280 40 L 310 70 L 600 70 L 620 50 L 1160 50" fill="none" stroke="#10b981" stroke-width="1.5" stroke-opacity="0.3" />
+  <circle cx="280" cy="40" r="3.5" fill="#10b981" />
+  <circle cx="600" cy="70" r="3.5" fill="#3b82f6" />
+  <circle cx="1160" cy="50" r="4" fill="#60a5fa" />
+
+  <g transform="translate(60, 85)">
+    <rect x="0" y="0" width="80" height="28" rx="6" fill="#14254a" stroke="#3b82f6" stroke-width="1.2" />
+    <text x="40" y="19" fill="#3b82f6" font-family="-apple-system, sans-serif" font-size="13" font-weight="800" text-anchor="middle" letter-spacing="1">FIAP</text>
+    <rect x="92" y="0" width="160" height="28" rx="6" fill="#14254a" stroke="#1e376e" stroke-width="1.2" />
+    <text x="172" y="19" fill="#94a3b8" font-family="-apple-system, sans-serif" font-size="12" font-weight="600" text-anchor="middle">3ECR • 2024</text>
+    <rect x="264" y="0" width="200" height="28" rx="6" fill="#14254a" stroke="#60a5fa" stroke-width="1" />
+    <text x="364" y="19" fill="#60a5fa" font-family="-apple-system, sans-serif" font-size="11" font-weight="600" text-anchor="middle">Sanofi EC Pharma Challenge</text>
+  </g>
+
+  <g transform="translate(60, 160)">
+    <text x="0" y="42" fill="#ffffff" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="34" font-weight="900" letter-spacing="-0.5">ENGENHARIA DE SOFTWARE</text>
+    <text x="0" y="80" fill="#60a5fa" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="15" font-weight="500">Metodologias Ágeis (Scrum/Kanban), Padrões de Projeto GoF, Microsserviços, </text>
+    <text x="0" y="105" fill="#94a3b8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13">Bacharelado em Engenharia da Computação • Acervo Integral de Engenharia</text>
+  </g>
+
+  
+    <g transform="translate(560, 120)">
+      <rect width="270" height="76" rx="10" fill="#14254a" stroke="#1e376e" stroke-width="1.2" />
+      <text x="16" y="24" fill="#60a5fa" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" font-weight="700" letter-spacing="1">METODOLOGIA ÁGIL</text>
+      <text x="16" y="48" fill="#ffffff" font-family="'Fira Code', monospace" font-size="16" font-weight="800">SCRUM &amp; KANBAN</text>
+      <text x="16" y="66" fill="#94a3b8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10">Sprints de 2 Semanas e User Stories</text>
+    </g>
+    <g transform="translate(850, 120)">
+      <rect width="270" height="76" rx="10" fill="#14254a" stroke="#1e376e" stroke-width="1.2" />
+      <text x="16" y="24" fill="#60a5fa" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" font-weight="700" letter-spacing="1">PADRÕES DE PROJETO</text>
+      <text x="16" y="48" fill="#ffffff" font-family="'Fira Code', monospace" font-size="16" font-weight="800">GOF PATTERNS</text>
+      <text x="16" y="66" fill="#94a3b8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10">Factory, Observer, Strategy e Facade</text>
+    </g>
+    <g transform="translate(560, 210)">
+      <rect width="270" height="76" rx="10" fill="#14254a" stroke="#1e376e" stroke-width="1.2" />
+      <text x="16" y="24" fill="#60a5fa" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" font-weight="700" letter-spacing="1">CONTAINERIZAÇÃO</text>
+      <text x="16" y="48" fill="#ffffff" font-family="'Fira Code', monospace" font-size="16" font-weight="800">DOCKER &amp; K8S</text>
+      <text x="16" y="66" fill="#94a3b8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10">Imagens Multi-Stage e Orquestração</text>
+    </g>
+    <g transform="translate(850, 210)">
+      <rect width="270" height="76" rx="10" fill="#14254a" stroke="#1e376e" stroke-width="1.2" />
+      <text x="16" y="24" fill="#60a5fa" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" font-weight="700" letter-spacing="1">QUALIDADE DE CÓDIGO</text>
+      <text x="16" y="48" fill="#ffffff" font-family="'Fira Code', monospace" font-size="16" font-weight="800">SONARQUBE A</text>
+      <text x="16" y="66" fill="#94a3b8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10">Zero Vulnerabilidades e Débito Baixo</text>
+    </g>
+
+  <g transform="translate(60, 420)">
+    <text x="0" y="0" fill="#94a3b8" font-family="-apple-system, sans-serif" font-size="12" font-weight="700" letter-spacing="1">TECNOLOGIAS &amp; METODOLOGIAS DOMINADAS:</text>
+  </g>
+  
+    <g transform="translate(60, 450)">
+      <rect width="168.5" height="28" rx="14" fill="#14254a" stroke="#3b82f6" stroke-width="1" />
+      <text x="84.25" y="18" fill="#ffffff" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="600" text-anchor="middle">🏃 Scrum &amp; Sprints</text>
+    </g>
+    <g transform="translate(240.5, 450)">
+      <rect width="134.5" height="28" rx="14" fill="#14254a" stroke="#3b82f6" stroke-width="1" />
+      <text x="67.25" y="18" fill="#ffffff" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="600" text-anchor="middle">🧩 Padrões GoF</text>
+    </g>
+    <g transform="translate(387.0, 450)">
+      <rect width="236.5" height="28" rx="14" fill="#14254a" stroke="#3b82f6" stroke-width="1" />
+      <text x="118.25" y="18" fill="#ffffff" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="600" text-anchor="middle">🐳 Docker &amp; Microsserviços</text>
+    </g>
+    <g transform="translate(635.5, 450)">
+      <rect width="211.0" height="28" rx="14" fill="#14254a" stroke="#3b82f6" stroke-width="1" />
+      <text x="105.5" y="18" fill="#ffffff" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="600" text-anchor="middle">🚀 GitHub Actions CI/CD</text>
+    </g>
+    <g transform="translate(858.5, 450)">
+      <rect width="194.0" height="28" rx="14" fill="#14254a" stroke="#3b82f6" stroke-width="1" />
+      <text x="97.0" y="18" fill="#ffffff" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="600" text-anchor="middle">📐 UML 2.0 &amp; C4 Model</text>
+    </g>
+    <g transform="translate(1064.5, 450)">
+      <rect width="160.0" height="28" rx="14" fill="#14254a" stroke="#3b82f6" stroke-width="1" />
+      <text x="80.0" y="18" fill="#ffffff" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="600" text-anchor="middle">💊 Desafio Sanofi</text>
+    </g>
+</svg>

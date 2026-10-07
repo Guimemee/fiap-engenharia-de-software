@@ -1,0 +1,7 @@
+FIAP • Engenharia da Computação
+Disciplina: Engenharia de Software
+Turma 3ECR • Ano 2024
+Checkpoint 06: Pipeline de Integração e Entrega Contínua (CI/CD) com GitHub Actions
+
+ENUNCIADO ORIGINAL:
+Projetar workflow automatizado de CI/CD no GitHub Actions contemplando linting, testes, análise estática SonarQube, build de imagem Docker e deploy automatizado no Kubernetes.
